@@ -15,4 +15,4 @@ def is_palindrome(word):
     
 word = 'корок'
 
-print(is_palindrome(word));
+print(is_palindrome(word))
